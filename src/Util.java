@@ -100,5 +100,6 @@ public class Util {
         fornecedor[idxFornecedor] = new Fornecedor(nome, cnpj);
         idxFornecedor++;
         return fornecedor[idxFornecedor - 1];
+        //.
     }
 }
